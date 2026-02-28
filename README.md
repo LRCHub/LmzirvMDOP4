@@ -1,0 +1,43 @@
+# Last Child – Diary Depresiku
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:24.58] Malam ini, hujan turun lagi
+[00:31.91] Bersama kenangan yang ungkit luka di hati
+[00:39.44] Luka yang harusnya dapat terobati
+[00:46.42] Yang kuharap tiada pernah terjadi
+[01:02.92] 
+[00:53.61] Ku ingat saat ayah pergi, dan kami mulai kelaparan
+[01:00.46] Hal yang biasa buat aku hidup di jalanan
+[01:07.66] Di saat ku belum mengerti arti sebuah perceraian
+[01:15.25] Yang hancurkan semua hal indah yang dulu pernah aku miliki
+[01:44.25] 
+[01:25.61] Wajar bila saat ini ku iri pada kalian
+[01:32.37] Yang hidup bahagia berkat suasana indah dalam rumah
+[01:39.92] Hal yang selalu aku bandingkan dengan hidupku yang kelam
+[01:47.29] Tiada harga diri agar hidupku terus bertahan
+[02:09.29] 
+[02:07.23] Mungkin sejenak dapat aku lupakan
+[02:13.62] Dengan minuman keras yang saat ini kugenggam
+[02:21.27] Atau menggoreskan kaca di lenganku
+[02:27.59] Apa pun 'kan kulakukan, ku ingin lupakan
+[02:47.59] 
+[02:35.20] Namun, bila ku mulai sadar dari sisa mabuk semalam
+[02:42.31] Perihnya luka ini s'makin dalam kurasakan
+[02:49.62] Di saat ku telah mengerti betapa indah dicintai
+[02:57.22] Hal yang tak pernah kudapatkan sejak aku hidup di jalanan
+[03:25.72] 
+[03:07.40] Wajar bila saat ini ku iri pada kalian
+[03:14.79] Yang hidup bahagia berkat suasana indah dalam rumah
+[03:21.56] Hal yang selalu aku bandingkan dengan hidupku yang kelam
+[03:29.26] Tiada harga diri agar hidupku terus bertahan
+[03:51.26] 
+[04:02.54] Wajar bila saat ini ku iri pada kalian
+[04:10.91] Yang hidup bahagia berkat suasana indah dalam rumah
+[04:17.87] Hal yang selalu aku bandingkan dengan hidupku yang kelam
+[04:25.51] Tiada harga diri agar hidupku terus bertahan
+[04:47.51] 
+[04:33.32] Tiada harga diri agar hidupku terus bertahan
+[04:40.04] Tiada harga diri agar hidupku terus bertahan
+```
